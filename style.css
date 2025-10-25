@@ -120,6 +120,7 @@ header {
   font-size: 1.5rem;
   font-weight: bold;
   border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+  margin-bottom: 40px;
 }
 
 .rwd-table {
